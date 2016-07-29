@@ -4,6 +4,6 @@
 
 $(function(){
 	$("#top_contents").click(function(){
-		location.href("contents.html")
+		location.href="contents.html"£»
 	});
 })
